@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GLB-Viewer</string>
+    <string name="title_activity_main">GLB-Viewer</string>
+    <string name="package_name">com.niquewrld.glbviewer</string>
+    <string name="custom_url_scheme">com.niquewrld.glbviewer</string>
+</resources>
